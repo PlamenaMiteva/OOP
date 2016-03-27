@@ -1,0 +1,6 @@
+C:\Users\Plamena\Desktop\Skeleton\MassEffect\bin\Debug\MassEffect.exe.config
+C:\Users\Plamena\Desktop\Skeleton\MassEffect\bin\Debug\MassEffect.exe
+C:\Users\Plamena\Desktop\Skeleton\MassEffect\bin\Debug\MassEffect.pdb
+C:\Users\Plamena\Desktop\Skeleton\MassEffect\obj\Debug\MassEffect.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Desktop\Skeleton\MassEffect\obj\Debug\MassEffect.exe
+C:\Users\Plamena\Desktop\Skeleton\MassEffect\obj\Debug\MassEffect.pdb
