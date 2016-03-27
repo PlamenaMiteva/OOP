@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Defining Classes Homework\03. PC Catalogue\bin\Debug\_03.PC_Catalogue.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Defining Classes Homework\03. PC Catalogue\obj\Debug\03. PC Catalogue.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Defining Classes Homework\03. PC Catalogue\bin\Debug\_03.PC_Catalogue.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Defining Classes Homework\03. PC Catalogue\bin\Debug\_03.PC_Catalogue.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Defining Classes Homework\03. PC Catalogue\obj\Debug\_03.PC_Catalogue.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Defining Classes Homework\03. PC Catalogue\obj\Debug\_03.PC_Catalogue.pdb

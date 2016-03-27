@@ -1,0 +1,6 @@
+C:\Users\Plamena\documents\visual studio 2013\Projects\Defining Classes Homework\Laptop Shop\bin\Debug\Laptop Shop.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\Defining Classes Homework\Laptop Shop\bin\Debug\Laptop Shop.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Defining Classes Homework\Laptop Shop\bin\Debug\Laptop Shop.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\Defining Classes Homework\Laptop Shop\obj\Debug\Laptop Shop.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\Defining Classes Homework\Laptop Shop\obj\Debug\Laptop Shop.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\Defining Classes Homework\Laptop Shop\obj\Debug\Laptop Shop.pdb
