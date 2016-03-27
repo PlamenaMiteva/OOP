@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Capitalism_Sample_Exam\Capitalism\bin\Debug\Capitalism.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Capitalism_Sample_Exam\Capitalism\obj\Debug\Capitalism.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Capitalism_Sample_Exam\Capitalism\bin\Debug\Capitalism.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Capitalism_Sample_Exam\Capitalism\bin\Debug\Capitalism.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Capitalism_Sample_Exam\Capitalism\obj\Debug\Capitalism.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Capitalism_Sample_Exam\Capitalism\obj\Debug\Capitalism.pdb
