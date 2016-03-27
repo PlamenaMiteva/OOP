@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Other Types Homework\Galactic GPS\bin\Debug\Galactic GPS.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Other Types Homework\Galactic GPS\obj\Debug\Galactic GPS.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Other Types Homework\Galactic GPS\bin\Debug\Galactic GPS.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Other Types Homework\Galactic GPS\bin\Debug\Galactic GPS.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Other Types Homework\Galactic GPS\obj\Debug\Galactic GPS.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Other Types Homework\Galactic GPS\obj\Debug\Galactic GPS.pdb

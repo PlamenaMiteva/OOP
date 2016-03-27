@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Other Types Homework\Fraction Calculator\bin\Debug\Fraction Calculator.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Other Types Homework\Fraction Calculator\bin\Debug\Fraction Calculator.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Other Types Homework\Fraction Calculator\bin\Debug\Fraction Calculator.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Other Types Homework\Fraction Calculator\obj\Debug\Fraction Calculator.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Other Types Homework\Fraction Calculator\obj\Debug\Fraction Calculator.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Other Types Homework\Fraction Calculator\obj\Debug\Fraction Calculator.pdb
