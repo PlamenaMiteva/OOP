@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Exception Handling Homework\02. Enter Numbers\bin\Debug\_02.Enter_Numbers.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Exception Handling Homework\02. Enter Numbers\obj\Debug\02. Enter Numbers.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Exception Handling Homework\02. Enter Numbers\bin\Debug\_02.Enter_Numbers.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exception Handling Homework\02. Enter Numbers\bin\Debug\_02.Enter_Numbers.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Exception Handling Homework\02. Enter Numbers\obj\Debug\_02.Enter_Numbers.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Exception Handling Homework\02. Enter Numbers\obj\Debug\_02.Enter_Numbers.pdb
