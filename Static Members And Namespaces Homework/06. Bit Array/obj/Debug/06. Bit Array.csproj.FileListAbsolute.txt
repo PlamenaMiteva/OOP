@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\06. Bit Array\bin\Debug\_06.Bit_Array.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\06. Bit Array\bin\Debug\_06.Bit_Array.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\06. Bit Array\bin\Debug\_06.Bit_Array.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\06. Bit Array\obj\Debug\06. Bit Array.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\06. Bit Array\obj\Debug\_06.Bit_Array.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\06. Bit Array\obj\Debug\_06.Bit_Array.pdb

@@ -1,0 +1,1 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\Geometry\bin\Debug\Geometry.exe.config

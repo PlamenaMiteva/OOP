@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\01. Point 3D\bin\Debug\_01.Point_3D.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\01. Point 3D\bin\Debug\_01.Point_3D.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\01. Point 3D\bin\Debug\_01.Point_3D.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\01. Point 3D\obj\Debug\01. Point 3D.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\01. Point 3D\obj\Debug\_01.Point_3D.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Static Members And Namespaces Homework\01. Point 3D\obj\Debug\_01.Point_3D.pdb

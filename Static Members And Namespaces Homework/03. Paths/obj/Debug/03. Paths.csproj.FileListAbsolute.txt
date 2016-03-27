@@ -1,0 +1,6 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Static Members And Namespaces Homework\03. Paths\bin\Debug\_03.Paths.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Static Members And Namespaces Homework\03. Paths\bin\Debug\_03.Paths.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Static Members And Namespaces Homework\03. Paths\bin\Debug\_03.Paths.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Static Members And Namespaces Homework\03. Paths\obj\Debug\03. Paths.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Static Members And Namespaces Homework\03. Paths\obj\Debug\_03.Paths.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Static Members And Namespaces Homework\03. Paths\obj\Debug\_03.Paths.pdb
