@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Inheritance_Abstraction_ Homework\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Inheritance_Abstraction_ Homework\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Inheritance_Abstraction_ Homework\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Inheritance_Abstraction_ Homework\CompanyHierarchy\obj\Debug\CompanyHierarchy.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Inheritance_Abstraction_ Homework\CompanyHierarchy\obj\Debug\CompanyHierarchy.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Inheritance_Abstraction_ Homework\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb
