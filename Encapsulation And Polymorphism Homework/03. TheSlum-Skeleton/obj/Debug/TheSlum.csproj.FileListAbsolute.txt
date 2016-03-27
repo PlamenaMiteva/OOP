@@ -1,0 +1,5 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Encapsulation And Polymorphism Homework\03. TheSlum-Skeleton\bin\Debug\TheSlum.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Encapsulation And Polymorphism Homework\03. TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Encapsulation And Polymorphism Homework\03. TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Encapsulation And Polymorphism Homework\03. TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\Encapsulation And Polymorphism Homework\03. TheSlum-Skeleton\obj\Debug\TheSlum.pdb

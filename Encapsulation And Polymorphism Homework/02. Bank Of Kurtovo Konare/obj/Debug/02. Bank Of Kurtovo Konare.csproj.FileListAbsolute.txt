@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Encapsulation And Polymorphism Homework\02. Bank Of Kurtovo Konare\bin\Debug\_02.Bank_Of_Kurtovo_Konare.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Encapsulation And Polymorphism Homework\02. Bank Of Kurtovo Konare\obj\Debug\02. Bank Of Kurtovo Konare.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Encapsulation And Polymorphism Homework\02. Bank Of Kurtovo Konare\bin\Debug\_02.Bank_Of_Kurtovo_Konare.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Encapsulation And Polymorphism Homework\02. Bank Of Kurtovo Konare\bin\Debug\_02.Bank_Of_Kurtovo_Konare.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Encapsulation And Polymorphism Homework\02. Bank Of Kurtovo Konare\obj\Debug\_02.Bank_Of_Kurtovo_Konare.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Encapsulation And Polymorphism Homework\02. Bank Of Kurtovo Konare\obj\Debug\_02.Bank_Of_Kurtovo_Konare.pdb
