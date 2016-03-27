@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CF787264-E4DF-4DEB-AFC0-7563166C185B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Empire</RootNamespace>
+    <AssemblyName>Empire</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\Core\Buildings\Archery.cs" />
+    <Compile Include="Models\Core\Buildings\Barracks.cs" />
+    <Compile Include="Models\Core\Buildings\Building.cs" />
+    <Compile Include="Models\Core\Buildings\ResourceProducedEventArgs.cs" />
+    <Compile Include="Models\Core\Buildings\UnitProducedEventArgs.cs" />
+    <Compile Include="Models\Core\Data.cs" />
+    <Compile Include="Models\Core\Engine.cs" />
+    <Compile Include="Models\Core\Factories\BuildingFactory.cs" />
+    <Compile Include="Models\Core\Factories\ResourceFactory.cs" />
+    <Compile Include="Models\Core\Factories\UnitFactory.cs" />
+    <Compile Include="Models\Core\IO\ConsoleReader.cs" />
+    <Compile Include="Models\Core\IO\ConsoleWriter.cs" />
+    <Compile Include="Models\Core\Resource.cs" />
+    <Compile Include="Models\Core\Units\Archer.cs" />
+    <Compile Include="Models\Core\Units\Swordsman.cs" />
+    <Compile Include="Models\Core\Units\Unit.cs" />
+    <Compile Include="Models\Enums\ResourceType.cs" />
+    <Compile Include="Models\Interfaces\IAttacker.cs" />
+    <Compile Include="Models\Interfaces\IBuilding.cs" />
+    <Compile Include="Models\Interfaces\IBuildingFactory.cs" />
+    <Compile Include="Models\Interfaces\IData.cs" />
+    <Compile Include="Models\Interfaces\IDestroyable.cs" />
+    <Compile Include="Models\Interfaces\IResourceFactory.cs" />
+    <Compile Include="Models\Interfaces\IRunnable.cs" />
+    <Compile Include="Models\Interfaces\IInputReader.cs" />
+    <Compile Include="Models\Interfaces\IOutputWriter.cs" />
+    <Compile Include="Models\Interfaces\IResource.cs" />
+    <Compile Include="Models\Interfaces\IResourceProducer.cs" />
+    <Compile Include="Models\Interfaces\IUnit.cs" />
+    <Compile Include="Models\Interfaces\IUnitFactory.cs" />
+    <Compile Include="Models\Interfaces\IUnitProducer.cs" />
+    <Compile Include="Empire.Application.cs" />
+    <Compile Include="Models\Interfaces\IUpdatable.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

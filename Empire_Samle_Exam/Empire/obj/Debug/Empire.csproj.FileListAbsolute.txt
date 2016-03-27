@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\Empire_Samle_Exam\Empire\bin\Debug\Empire.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\Empire_Samle_Exam\Empire\obj\Debug\Empire.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\Empire_Samle_Exam\Empire\bin\Debug\Empire.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Empire_Samle_Exam\Empire\bin\Debug\Empire.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\Empire_Samle_Exam\Empire\obj\Debug\Empire.exe
+c:\users\plamena\documents\visual studio 2013\Projects\Empire_Samle_Exam\Empire\obj\Debug\Empire.pdb
